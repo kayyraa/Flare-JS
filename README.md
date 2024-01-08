@@ -5,7 +5,5 @@
 - Javac Emulator
 - Mathpot
 - Python Math
-- HTML Base Editor
 - HTML Easy Element
-- CSS Easy Element
 - Python Emulator
